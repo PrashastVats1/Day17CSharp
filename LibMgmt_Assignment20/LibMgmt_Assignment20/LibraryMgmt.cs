@@ -18,7 +18,9 @@ namespace LibMgmt_Assignment20
                 new Book { BookId = 3, Title = "Inferno", Author = "Dan Brown", Genre = "Thriller", IsAvailable=true },
                 new Book { BookId = 4, Title = "One Piece", Author = "Eichiri Oda", Genre = "Shonen, Fantasy", IsAvailable=true },
                 new Book { BookId = 5, Title = "Everyone Else Is A Returnee", Author = "Toika", Genre = "Comedy, Adventure", IsAvailable=true},
-                new Book { BookId = 6, Title = "Naruto", Author = "Masashi Kishimoto", Genre = "Shonen, Adventure", IsAvailable=true }
+                new Book { BookId = 6, Title = "Naruto", Author = "Masashi Kishimoto", Genre = "Shonen, Adventure", IsAvailable=true },
+                new Book { BookId = 7, Title = "Lord Of The Rings Series", Author = "JRR Tolein", Genre = "Fantasy, Adventure", IsAvailable=true },
+                new Book { BookId = 8, Title = "The Hobbit", Author = "JRR Tolein", Genre = "Fantasy, Adventure", IsAvailable=true }
             };
         }
         public void AddBook(Book book)

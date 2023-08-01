@@ -9,3 +9,14 @@ D:\Mphasis\Live Session\Day17\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignmen
 D:\Mphasis\Live Session\Day17\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.csproj.CopyComplete
 D:\Mphasis\Live Session\Day17\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.exe
 D:\Mphasis\Live Session\Day17\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.pdb
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\bin\Debug\ConAppLibMgmt_Assignment20.exe.config
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\bin\Debug\ConAppLibMgmt_Assignment20.exe
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\bin\Debug\ConAppLibMgmt_Assignment20.pdb
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\bin\Debug\LibMgmt_Assignment20.dll
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\bin\Debug\LibMgmt_Assignment20.pdb
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.csproj.CopyComplete
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.exe
+D:\Mphasis\Live Session\Day17\Assignment20\ConAppLibMgmt_Assignment20\ConAppLibMgmt_Assignment20\obj\Debug\ConAppLibMgmt_Assignment20.pdb
