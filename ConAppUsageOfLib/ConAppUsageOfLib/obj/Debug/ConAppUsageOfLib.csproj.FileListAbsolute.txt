@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\bin\Debug\ConAppUsageOfLib.exe.config
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\bin\Debug\ConAppUsageOfLib.exe
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\bin\Debug\ConAppUsageOfLib.pdb
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\bin\Debug\CalcLib.dll
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\bin\Debug\CalcLib.pdb
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\obj\Debug\ConAppUsageOfLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\obj\Debug\ConAppUsageOfLib.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\obj\Debug\ConAppUsageOfLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\obj\Debug\ConAppUsageOfLib.csproj.CopyComplete
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\obj\Debug\ConAppUsageOfLib.exe
+D:\Mphasis\Live Session\Day17\ConAppUsageOfLib\ConAppUsageOfLib\obj\Debug\ConAppUsageOfLib.pdb

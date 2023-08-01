@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\bin\Debug\ConAppUnsafeCodeExTwo.exe.config
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\bin\Debug\ConAppUnsafeCodeExTwo.exe
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\bin\Debug\ConAppUnsafeCodeExTwo.pdb
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\obj\Debug\ConAppUnsafeCodeExTwo.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\obj\Debug\ConAppUnsafeCodeExTwo.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\obj\Debug\ConAppUnsafeCodeExTwo.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\obj\Debug\ConAppUnsafeCodeExTwo.exe
+D:\Mphasis\Live Session\Day17\ConAppUnsafeCodeExTwo\ConAppUnsafeCodeExTwo\obj\Debug\ConAppUnsafeCodeExTwo.pdb

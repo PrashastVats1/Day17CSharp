@@ -1,0 +1,11 @@
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\bin\Debug\ConAppProductMgmtApp.exe.config
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\bin\Debug\ConAppProductMgmtApp.exe
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\bin\Debug\ConAppProductMgmtApp.pdb
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\bin\Debug\ProductLib.dll
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\bin\Debug\ProductLib.pdb
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\obj\Debug\ConAppProductMgmtApp.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\obj\Debug\ConAppProductMgmtApp.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\obj\Debug\ConAppProductMgmtApp.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\obj\Debug\ConAppProductMgmtApp.csproj.CopyComplete
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\obj\Debug\ConAppProductMgmtApp.exe
+D:\Mphasis\Live Session\Day17\ConAppProductMgmtApp\ConAppProductMgmtApp\obj\Debug\ConAppProductMgmtApp.pdb

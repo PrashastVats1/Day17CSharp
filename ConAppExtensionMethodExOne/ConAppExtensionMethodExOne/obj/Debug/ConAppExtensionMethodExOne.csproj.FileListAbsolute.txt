@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\bin\Debug\ConAppExtensionMethodExOne.exe.config
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\bin\Debug\ConAppExtensionMethodExOne.exe
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\bin\Debug\ConAppExtensionMethodExOne.pdb
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\obj\Debug\ConAppExtensionMethodExOne.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\obj\Debug\ConAppExtensionMethodExOne.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\obj\Debug\ConAppExtensionMethodExOne.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\obj\Debug\ConAppExtensionMethodExOne.exe
+D:\Mphasis\Live Session\Day17\ConAppExtensionMethodExOne\ConAppExtensionMethodExOne\obj\Debug\ConAppExtensionMethodExOne.pdb

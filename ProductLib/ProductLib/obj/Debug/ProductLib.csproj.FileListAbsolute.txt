@@ -1,0 +1,6 @@
+D:\Mphasis\Live Session\Day17\ProductLib\ProductLib\bin\Debug\ProductLib.dll
+D:\Mphasis\Live Session\Day17\ProductLib\ProductLib\bin\Debug\ProductLib.pdb
+D:\Mphasis\Live Session\Day17\ProductLib\ProductLib\obj\Debug\ProductLib.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day17\ProductLib\ProductLib\obj\Debug\ProductLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day17\ProductLib\ProductLib\obj\Debug\ProductLib.dll
+D:\Mphasis\Live Session\Day17\ProductLib\ProductLib\obj\Debug\ProductLib.pdb
